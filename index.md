@@ -12,7 +12,9 @@
 var myVar = "EYO, AM IN TIS Worlda!";
 ```
 
-
+- [ ] Did nothing
+- [x] Edited something
+- [x] Can't understand anything
 
 
 
